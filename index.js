@@ -1,11 +1,11 @@
 /*
 * JANGAN UBAH-UBAH INFO!!!
 * "JANGAN MODAL NAMA DOANG BRO!!!"
-* SCRIPT BY ARIS187 ID
+* SCRIPT BY putra ID
 * JANGAN MODAL NAMA DOANG BOSQ
 * HARGAILAH YG MEMBUAT SCRIPT INI BOSQ
 * JANGAN UBAH-UBAH INFO!!!
-* ARIS187 ID
+* putra ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
 const qrcode = require("qrcode-terminal")
@@ -22,7 +22,7 @@ const config = {
     instagram: 'https://instagram.com/story.anime45',
     nomer: 'wa.me/6281392365930',
     aktif: '24 JAM',
-    youtube: 'https://youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg',
+    youtube: 'https://www.youtube.com/channel/UCDJx-HaB0Ar25_ShPmGj7eA',
     whatsapp: 'https:https://chat.whatsapp.com/DhRVodDKpY5EBpE65SCFMF',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
